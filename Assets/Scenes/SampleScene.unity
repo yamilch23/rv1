@@ -316,7 +316,7 @@ PrefabInstance:
     - target: {fileID: 3117677685127050958, guid: 0d12519b74dc0e44bbf472e5f77b1039, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
-      objectReference: {fileID: 2100000, guid: 82b99788857c226498bac751261a2f29, type: 2}
+      objectReference: {fileID: 2100000, guid: 3b6c4cb7e873a6949a02db390915a873, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -412,7 +412,7 @@ MonoBehaviour:
   m_ParentInteractableObject: {fileID: 0}
   m_AttachTransform: {fileID: 0}
   m_SecondaryAttachTransform: {fileID: 0}
-  m_UseDynamicAttach: 0
+  m_UseDynamicAttach: 1
   m_MatchAttachPosition: 1
   m_MatchAttachRotation: 1
   m_SnapToColliderVolume: 1
@@ -512,7 +512,7 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.05, y: 0.05, z: 0.05}
+  m_Size: {x: 0.39, y: 0.25, z: 0.69}
   m_Center: {x: 0, y: 0.03, z: 0}
 --- !u!1 &73808061
 GameObject:
